@@ -1,0 +1,7 @@
+.view-button span{
+    color: var(--clr-pr);
+    font-size: 28px;
+}
+.view-button span:hover{
+    color: var(--clr-sc);
+}
